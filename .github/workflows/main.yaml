@@ -1,7 +1,7 @@
 name: hellow-world
 'on': push
 jobs:
-    my-first-job:
+    my-job:
         runs-on: ubuntu-latest
         steps:
             - name: my-step
