@@ -1,0 +1,8 @@
+name: job
+'on': push
+jobs:
+    my-job:
+        runs-on: ubuntu-latest
+        steps:
+            - name: job
+              run: echo "my second job"
