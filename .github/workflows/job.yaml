@@ -14,3 +14,5 @@ jobs:
         steps:
             - name: job-2
               run: echo "my second job"
+            - name: Create Notice Annotation
+              run: echo $$
