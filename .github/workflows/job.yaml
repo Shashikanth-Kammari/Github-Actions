@@ -14,5 +14,5 @@ jobs:
         steps:
             - name: job-2
               run: echo "my second job"
-            - name: Create Notice Annotation
+            - name: Process id of Job-2
               run: echo $$
