@@ -6,8 +6,7 @@ jobs:
         steps:
             - name: first-job
               run: echo "Hello-World"
-            - name: annotation-job
-              run: echo "production"
+     
               
 
     
