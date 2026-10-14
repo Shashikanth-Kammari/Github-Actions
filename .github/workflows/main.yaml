@@ -1,4 +1,4 @@
-name: hellow-world
+name: job
 on: push
 jobs:
     my-job:
